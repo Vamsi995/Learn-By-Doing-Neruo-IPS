@@ -1,1 +1,1 @@
-# Learn-By-Doing-Neruo-IPS
+# Learn-By-Doing-Neuro-IPS
